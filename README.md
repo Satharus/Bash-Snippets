@@ -48,7 +48,7 @@ Where Tracklist is a file that contains the paths of the tracks to be edited, on
 
 Given a width and height, it divides the image into files of equal width and height.
 
-It uses the imagemagick.
+It uses imagemagick.
 
 ![Demonstration of what it does](https://github.com/Satharus/Bash-Snipets/blob/master/Demonstrations/Crop.png)
 
