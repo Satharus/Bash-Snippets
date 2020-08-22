@@ -53,9 +53,11 @@ It uses imagemagick.
 ![Demonstration of what it does](https://github.com/Satharus/Bash-Snipets/blob/master/Demonstrations/Crop.png)
 
 #### Usage:
-`./DivideImages.sh [Width] [Height] [Image]`
+`./DivideImages.sh [Width] [Height] [Image] [IncludeName]`
 
 Where Width and Height are the size of the partitions you want.
+
+Set IncludeName to 1 if you want the output to be X_Y_name.png instead of X_Y.png. Otherwise, leave it empty.
 
 [Link to the script](https://github.com/Satharus/Bash-Snipets/blob/master/DivideImages.sh)
 
