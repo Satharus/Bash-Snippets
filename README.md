@@ -62,6 +62,21 @@ Set IncludeName to 1 if you want the output to be X_Y_name.png instead of X_Y.pn
 [Link to the script](https://github.com/Satharus/Bash-Snipets/blob/master/DivideImages.sh)
 
 
+## ReconstructImage.sh
+
+This reconstructs the image that was divided by DivideImage.sh.
+
+It also uses imagemagick.
+
+#### Usage:
+`./ReconstructImage.sh`
+
+Just run it from the directory where the divided images are. The final image will be output.png.
+
+[Link to the script](https://github.com/Satharus/Bash-Snipets/blob/master/ReconstructImage.sh)
+
+
+
 ## decodefile.sh
 
 Given a list of files that are encoded in base64, it decodes them.
